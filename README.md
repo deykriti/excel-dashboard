@@ -9,6 +9,8 @@
 ## 1. Project Overview
 
 This project involved analyzing bike sales data using Excel to uncover customer trends and visualize results for better business insights. The key objectives were to clean and process the raw data, standardize field values, segment customers by relevant criteria such as age and region, and build an interactive dashboard for clear visualization and decision-making.
+<img width="1001" height="571" alt="image" src="https://github.com/user-attachments/assets/de57b190-5083-4b7f-8e2f-58bb54f87599" />
+
 
 ---
 
@@ -38,4 +40,47 @@ This project involved analyzing bike sales data using Excel to uncover customer 
 
 ```excel
 =IF(L2>54,"Old",IF(L2>=31,"Middle Age",IF(L2<31,"Adolescence","Invalid")))
+<img width="796" height="57" alt="image" src="https://github.com/user-attachments/assets/6987e62f-66a3-463d-861a-1f5e6ea70b0c" />
+
+
+| AGe | Description |
+|---|---|
+| 25 >= | Adolescence |
+| 40 >= | Middle Age |
+| 60 >= | Olde |
+This segmentation helped visualize purchase patterns by age group.
+
+## 4. Excel Analysis Performed
+
+### Tools and Techniques Used
+
+- PivotTables  
+- PivotCharts  
+- IF, VLOOKUP & nested conditional formulas  
+- Slicers for dynamic filtering  
+- Sorting, grouping & summarizing techniques  
+
+---
+
+### Metrics Calculated
+
+| Metric | Purpose |
+|-------------------------------|-----------------------------------------------------------|
+| Avg Income vs Purchase Status | Measures purchase likelihood by earnings                 |
+| Purchases by Age Category     | Identifies most active buying demographics               |
+| Distance vs Purchase Decision | Evaluates influence of commute distance on buying intent |
+
+## 5. Dashboard Visualizations
+
+The dashboard includes:
+
+- **Bar Chart** — Average Income by Gender & Purchase Status  
+- **Line Chart** — Purchase Count by Age Bracket  
+- **Trend Chart** — Commute Distance vs Purchase Behavior  
+- **Slicers** — Region, Education, Marital Status  
+
+---
+
+
+
 
