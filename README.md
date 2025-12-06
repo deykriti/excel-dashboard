@@ -40,11 +40,12 @@ This project involved analyzing bike sales data using Excel to uncover customer 
 
 <img width="796" height="57" alt="image" src="https://github.com/user-attachments/assets/6987e62f-66a3-463d-861a-1f5e6ea70b0c" />
 
-| AGe | Description |
+| Age | Description |
 |---|---|
 | 25 >= | Adolescence |
 | 40 >= | Middle Age |
-| 60 >= | Olde |
+| 60 >= | Old |
+
 This segmentation helped visualize purchase patterns by age group.
 
 ## 4. Excel Analysis Performed
@@ -78,6 +79,9 @@ The dashboard includes:
 
 ---
 
+**Author:** *Kriti Dey*  
+*Analyst*  
+[LinkedIn](https://www.linkedin.com/in/kritidey/) · [GitHub](https://deykriti.github.io/)
 
 
 
