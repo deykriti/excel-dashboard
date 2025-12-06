@@ -38,10 +38,7 @@ This project involved analyzing bike sales data using Excel to uncover customer 
 
 ### Created New Feature – Age Bracket
 
-```excel
-=IF(L2>54,"Old",IF(L2>=31,"Middle Age",IF(L2<31,"Adolescence","Invalid")))
 <img width="796" height="57" alt="image" src="https://github.com/user-attachments/assets/6987e62f-66a3-463d-861a-1f5e6ea70b0c" />
-
 
 | AGe | Description |
 |---|---|
